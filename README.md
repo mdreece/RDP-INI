@@ -1,6 +1,7 @@
 # RDP-INI
 Storage of .ini files for updates
-Original cources for RDP Wrapper are:
+
+Original sources for RDP Wrapper are:
  - https://github.com/stascorp/rdpwrap
  - https://github.com/asmtron/rdpwrap-old
  
