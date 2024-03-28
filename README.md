@@ -18,3 +18,7 @@ Core components are still from the above 2 locations. The base files for install
   - RDPCheck.exe: Allows for local testing to ensure a remote connection to the other Win account is functional
   - RDPConf.exe: Allows for the user to check if RDPWrapper is supported in their given build of Windows
   - RDPWInsta.exe: Core component to the installation process
+
+
+UPDATES:
+3/28/2024 - UPDATED FOR V10.0.19045.4239
