@@ -20,5 +20,5 @@ Core components are still from the above 2 locations. The base files for install
   - RDPWInsta.exe: Core component to the installation process
 
 
-UPDATES:
+
 3/28/2024 - UPDATED FOR V10.0.19045.4239
