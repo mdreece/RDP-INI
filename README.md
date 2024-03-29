@@ -19,5 +19,5 @@ Additional Files:
 - RDPConf.exe: Allows for the user to check if RDPWrapper is supported in their given build of Windows.
 - RDPWInsta.exe: Core component to the installation process.
 
-**3/29/2024 - UPDATED FOR V10.0.22621.3374**
-**3/28/2024 - UPDATED FOR V10.0.19045.4239**
+ - 3/29/2024: UPDATED FOR V10.0.22621.3374
+ - 3/28/2024: UPDATED FOR V10.0.19045.4239
