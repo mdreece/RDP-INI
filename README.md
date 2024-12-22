@@ -14,7 +14,7 @@ Core components are still from the above 2 locations. The base files for install
 - RDPW - Uninstall: Runs through uninstalling RDPWrapper running instances (core files remain).
 - RDPW - Update: If there is a new .ini for Winver, this is run to update RDPWrapper as needed.
 
-Additional Files:
+Additional Files (extract the .zip instances):
 - RDPCheck.exe: Allows for local testing to ensure a remote connection to the other Win account is functional.
 - RDPConf.exe: Allows for the user to check if RDPWrapper is supported in their given build of Windows.
 - RDPWInsta.exe: Core component to the installation process.
