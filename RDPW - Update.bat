@@ -7,7 +7,7 @@ REM -------------------------------------------------------------------
 REM
 REM                        autoupdate.bat
 REM
-REM Automatic RDP Wrapper installer and updater // mdreece (1-4-2024)
+REM Automatic RDP Wrapper installer and updater // I did not originally write this script. I have just made slight udjustments/am updating when able since the orignal page stopped (1-4-2024)
 REM -------------------------------------------------------------------
 REM Options:
 REM   -log        = redirect display output to the file autoupdate.log
