@@ -20,6 +20,7 @@ Additional Files (extract the .zip instances):
 - RDPWInsta.exe: Core component to the installation process.
 
 ___________________________________________________________________________________________________________________________________________________________________
+ - 12/26/2024: UPDATED FOR V10.0.19041.662
  - 11/25/2024: UPDATED FOR V10.0.26100.2454
  - 11/25/2024: UPDATED FOR V10.0.22621.4541
  - 10/23/2024: UPDATED FOR V10.0.22621.4391
